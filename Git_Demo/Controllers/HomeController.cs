@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Git_Demo.Controllers
 {
     //First GitHub Test
-   //This comment added from GitHub
+   //This comment added 
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
